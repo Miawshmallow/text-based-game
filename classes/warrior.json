@@ -1,0 +1,8 @@
+{
+"strength": 10,
+"vitality": 10,
+"agility": 5,
+"inteligence": 1,
+"spirit": 5,
+"skills": ["bash", "defend", "stun"]
+}

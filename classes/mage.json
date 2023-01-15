@@ -1,0 +1,8 @@
+{
+"strength": 5,
+"vitality": 10,
+"agility": 5,
+"inteligence": 10,
+"spirit": 5,
+"skills": ["fireball", "thunderball", "iceball"]
+}

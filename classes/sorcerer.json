@@ -1,0 +1,8 @@
+{
+"strength": 5,
+"vitality": 5,
+"agility": 5,
+"inteligence": 10,
+"spirit": 10,
+"skills": ["curse", "petrify", "heal"]
+}
